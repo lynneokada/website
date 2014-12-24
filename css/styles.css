@@ -115,7 +115,7 @@ body {
 
 #group1 {
   z-index: 5; /* slide over group 2 */
-  height:100px;
+
   background:white;
 }
 #group1 .parallax__layer--base {
