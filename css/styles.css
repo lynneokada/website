@@ -20,7 +20,7 @@
 
 .parallax__layer {
   position: absolute;
-  top: 0;
+  top: -250px;
   left: 0;
   right: 0;
   bottom: 0;
@@ -129,7 +129,8 @@ body {
 }
 #group2 .parallax__layer--back {
   background: white;
-  height:200px;
+  height:150px;
+  top:-450px;
 }
 
 #group3 {
