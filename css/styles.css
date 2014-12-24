@@ -116,10 +116,12 @@ body {
 #group1 {
   z-index: 5; /* slide over group 2 */
 
-  background:white;
+  background:red;
 }
+
 #group1 .parallax__layer--base {
-  background: white;
+  background: red;
+
 }
 
 #group2 {
