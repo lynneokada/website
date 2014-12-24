@@ -4208,7 +4208,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 @media(min-width:768px) {
   .navbar>.container .navbar-brand {
-    margin-left:-100px
+    margin-left:-50px
   }
 }
 
@@ -4292,7 +4292,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
   }
 
   .navbar-nav.navbar-right:last-child {
-    margin-right:-100px
+    margin-right:-50px
   }
 }
 
