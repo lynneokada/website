@@ -145,6 +145,7 @@ body {
 }
 #group4 .parallax__layer--deep {
   background: rgb(184,223,101);
+  top:-100px;
 }
 
 #group5 {
