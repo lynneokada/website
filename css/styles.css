@@ -189,7 +189,7 @@ body {
 #dreamshare {
     color:black;
     padding-top:100px;
-    padding-left:100px;
+    padding-left:300px;
   }
 
 #dreamshare-content {
@@ -197,14 +197,31 @@ body {
 }
 
 #strandedinspace {
-  left:150px;
   color:black;
+  padding-top:100px;
+  padding-left:300px;
+}
+
+#strandedinspace-content {
+  font-size:12px;
 }
 
 #firstofthem {
   color:black;
+  padding-top:100px;
+  padding-left:300px;
+}
+
+#firstofthem-content {
+  font-size:12px;
 }
 
 #zombiemob {
   color:black;
+  padding-top:100px;
+  padding-left:300px;
+}
+
+#zombiemob-content {
+  font-size:12px;
 }
