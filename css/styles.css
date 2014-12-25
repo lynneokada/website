@@ -100,10 +100,12 @@ body {
 
 /* centre the content in the parallax layers */
 .title {
-  text-align: center;
+  font-weight:bold;
+  color:black;
+  text-align: left;
   position: absolute;
-  left: 50%;
-  top: 50%;
+  top:50px;
+  left:100px;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
@@ -186,8 +188,25 @@ body {
 
 /* mbackground images
 --------------------------------------------- */
-.dream-share {
-  body {
-    margin-bottom: -500px;
+#dreamshare {
+    color:black;
+    padding-top:150px;
+    padding-left:100px;
   }
+
+#dreamshare-content {
+  font-size:12px;
+}
+
+#strandedinspace {
+  left:150px;
+  color:red;
+}
+
+#firstofthem {
+  color:red;
+}
+
+#zombiemob {
+  color:red;
 }
