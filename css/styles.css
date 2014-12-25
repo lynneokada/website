@@ -192,7 +192,7 @@ body {
     padding-left:300px;
   }
 
-#dreamshare-content {
+#dreamshare-content-left {
   font-size:12px;
 }
 
@@ -224,4 +224,8 @@ body {
 
 #zombiemob-content {
   font-size:12px;
+}
+
+th {
+  text-align:left;
 }
