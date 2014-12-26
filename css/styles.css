@@ -196,7 +196,10 @@ body {
 
 #dreamshare-content {
   font-size:12px;
+}
 
+#dreamshare-icon {
+  margin-left:-150px;
 }
 
 #dreamshare-image1 {
