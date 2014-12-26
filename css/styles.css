@@ -201,7 +201,6 @@ body {
 
 #dreamshare-image1 {
   margin-right:250px;
-  position:relative;
 }
 
 #strandedinspace {
@@ -226,6 +225,10 @@ body {
   font-size:12px;
 }
 
+#firstofthem-image1 {
+  margin-right:350px;
+}
+
 #zombiemob {
   font-family: 'Open Sans', sans-serif;
   color:black;
@@ -235,4 +238,8 @@ body {
 
 #zombiemob-content {
   font-size:12px;
+}
+
+.teammate-image {
+  border-radius:50%;
 }
