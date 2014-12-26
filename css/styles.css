@@ -191,6 +191,7 @@ body {
   color:black;
   padding-top:100px;
   padding-left:300px;
+  padding-right:25px;
   }
 
 #dreamshare-content {
@@ -200,6 +201,7 @@ body {
 
 #dreamshare-image1 {
   margin-right:250px;
+  position:relative;
 }
 
 #strandedinspace {
@@ -233,8 +235,4 @@ body {
 
 #zombiemob-content {
   font-size:12px;
-}
-
-th {
-  text-align:left;
 }
