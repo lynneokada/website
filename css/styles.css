@@ -184,7 +184,7 @@ body {
   width: 100%;
 }
 
-/* mbackground images
+/*  PROJECTS
 --------------------------------------------- */
 #dreamshare {
   font-family: 'Open Sans', sans-serif;
@@ -237,6 +237,10 @@ body {
   margin-right:350px;
 }
 
+.teammate-image {
+  border-radius:50%;
+}
+
 #zombiemob {
   font-family: 'Open Sans', sans-serif;
   color:black;
@@ -248,6 +252,8 @@ body {
   font-size:12px;
 }
 
-.teammate-image {
-  border-radius:50%;
+/*  ABOUT
+--------------------------------------------- */
+#about-me {
+  font-size:15px;
 }
