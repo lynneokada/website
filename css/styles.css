@@ -233,6 +233,12 @@ body {
   font-size:12px;
 }
 
+#firstofthem-icon img{
+  margin-left:-150px;
+  border:1px solid black;
+  border-radius:10%;
+}
+
 #firstofthem-image1 {
   margin-right:350px;
 }
