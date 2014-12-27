@@ -206,6 +206,10 @@ body {
   margin-right:250px;
 }
 
+#dreamshare-backend td {
+  font-weight:bold;
+}
+
 #strandedinspace {
   font-family: 'Open Sans', sans-serif;
   color:black;
@@ -225,6 +229,10 @@ body {
 
 #strandedinspace-content {
   font-size:12px;
+}
+
+#strandedinspace-tools td{
+  font-weight:bold;
 }
 
 #firstofthem {
@@ -261,6 +269,10 @@ body {
 
 #zombiemob-content {
   font-size:12px;
+}
+
+#zombiemob-tools td {
+  font-weight:bold;
 }
 
 /*  ABOUT
