@@ -246,8 +246,12 @@ body {
   padding-left:300px;
 }
 
-#firstofthem-content {
+#firstofthem-content{
   font-size:12px;
+}
+
+#firstofthem-content section {
+  width:400px;
 }
 
 #firstofthem-icon img{
