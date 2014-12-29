@@ -231,6 +231,10 @@ body {
   font-size:12px;
 }
 
+#strandedinspace-content section {
+  width:400px;
+}
+
 #strandedinspace-tools td{
   font-weight:bold;
 }
@@ -277,9 +281,25 @@ body {
 
 /*  ABOUT
 --------------------------------------------- */
-#about-me {
-  font-size:15px;
+.about-me {
+  font-size:12px;
+  width:400px;
+  margin-top:40px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:justify;
 }
+
+#photo img{
+  border-radius:50%;
+  width:75px;
+  height:75px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+}
+
 
 /*  CONTACT
 --------------------------------------------- */
