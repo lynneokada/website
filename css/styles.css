@@ -198,6 +198,10 @@ body {
   font-size:12px;
 }
 
+#dreamshare-content section {
+  width:400px;
+}
+
 #dreamshare-icon {
   margin-left:-150px;
 }
@@ -289,6 +293,10 @@ body {
   font-size:12px;
 }
 
+#zombiemob-content section {
+  width:400px;
+}
+
 #zombiemob-tools td {
   font-weight:bold;
 }
@@ -329,13 +337,26 @@ body {
 }
 
 #contact {
-  display:block;
   margin-top:5px;
   margin-left:auto;
   margin-right:auto;
-  width:70px;
+  width:100px;
   padding:3px;
 }
+
+img.grayscale{
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);  /* For Webkit browsers */
+  filter: gray;  /* For IE 6 - 9 */
+  -webkit-transition: all .3s ease;  /* Transition for Webkit browsers */
+}
+
+img.grayscale:hover {
+  filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
+  filter: none;
+}
+
 /*  CONTACT
 --------------------------------------------- */
 #card {
