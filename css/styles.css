@@ -275,6 +275,16 @@ body {
   padding-left:300px;
 }
 
+#zombiemob-icon img {
+  float:left;
+  margin-left:-150px;
+  border-radius:25%;
+  width:100px;
+  height:100px;
+  margin-left:150px;
+  margin-top:100px;
+}
+
 #zombiemob-content {
   font-size:12px;
 }
