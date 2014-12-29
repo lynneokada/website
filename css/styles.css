@@ -282,6 +282,7 @@ body {
 /*  ABOUT
 --------------------------------------------- */
 .about-me {
+  font-family: 'Open Sans', sans-serif;
   font-size:12px;
   width:400px;
   margin-top:40px;
@@ -300,7 +301,18 @@ body {
   margin-top:40px;
 }
 
+#MakeSchool a {
+  font-weight:bold;
+  font-size:15px;
+}
 
+#contact {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:70px;
+  padding:3px;
+}
 /*  CONTACT
 --------------------------------------------- */
 #card {
