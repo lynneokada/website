@@ -356,6 +356,10 @@ img.grayscale:hover {
   filter: none;
 }
 
+#resume {
+text-align:center;
+}
+
 /*  CONTACT
 --------------------------------------------- */
 #card {
